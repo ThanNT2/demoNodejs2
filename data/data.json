@@ -1,0 +1,380 @@
+{
+    "Travel": [
+        {
+            "bookTitle": "It's only the himalayas",
+            "bookPrice": "1.0",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Travel1"
+        },
+        {
+            "bookTitle": "It's only the andress",
+            "bookPrice": "2.1",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Travel2"
+        },
+        {
+            "bookTitle": "It's only the testTralvel",
+            "bookPrice": "3.01",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Travel3"
+        },
+        {
+            "bookTitle": "It's only the rendTr",
+            "bookPrice": "4.23",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Travel4"
+        },
+        {
+            "bookTitle": "It's only the hello",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Travel5"
+        }
+    ],
+    "HistoricalFiction": [
+        {
+            "bookTitle": "It's only the History1",
+            "bookPrice": "10.01",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "History1"
+        },
+        {
+            "bookTitle": "It's only the History2",
+            "bookPrice": "10.01",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "History2"
+        },
+        {
+            "bookTitle": "It's only the History3",
+            "bookPrice": "10.01",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "History3"
+        },
+        {
+            "bookTitle": "It's only the History4",
+            "bookPrice": "10.01",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "History4"
+        },
+        {
+            "bookTitle": "It's only the History5",
+            "bookPrice": "10.01",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "History5"
+        }
+    ],
+    "Mystery": [
+        {
+            "bookTitle": "It's only the Mystery1",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Mystery1"
+        },
+        {
+            "bookTitle": "It's only the Mystery2",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Mystery2"
+        },
+        {
+            "bookTitle": "It's only the Mystery3",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Mystery3"
+        },
+        {
+            "bookTitle": "It's only the Mystery4",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Mystery4"
+        },
+        {
+            "bookTitle": "It's only the Mystery5",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Mystery5"
+        }
+    ],
+    "Autobiography": [
+        {
+            "bookTitle": "It's only the Autobiography1",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Autobiography1"
+        },
+        {
+            "bookTitle": "It's only the Autobiography2",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Autobiography2"
+        },
+        {
+            "bookTitle": "It's only the Autobiography3",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Autobiography3"
+        },
+        {
+            "bookTitle": "It's only the Autobiography4",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Autobiography4"
+        },
+        {
+            "bookTitle": "It's only the Autobiography5",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Autobiography5"
+        }
+    ],
+    "Philosophy": [
+        {
+            "bookTitle": "It's only the Philosophy1",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Philosophy1"
+        },
+        {
+            "bookTitle": "It's only the Philosophy2",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Philosophy2"
+        },
+        {
+            "bookTitle": "It's only the Philosophy3",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Philosophy3"
+        },
+        {
+            "bookTitle": "It's only the Philosophy4",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Philosophy4"
+        },
+        {
+            "bookTitle": "It's only the Philosophy5",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Philosophy5"
+        }
+    ],
+    "Business": [
+        {
+            "bookTitle": "It's only the Business1",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Business1"
+        },
+        {
+            "bookTitle": "It's only the Business2",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Business2"
+        },
+        {
+            "bookTitle": "It's only the Business3",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Business3"
+        },
+        {
+            "bookTitle": "It's only the Business4",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Business4"
+        },
+        {
+            "bookTitle": "It's only the Business5",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Business5"
+        }
+    ],
+    "Fiction": [
+        {
+            "bookTitle": "It's only the Fiction1",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fiction1"
+        },
+        {
+            "bookTitle": "It's only the Fiction2",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fiction2"
+        },
+        {
+            "bookTitle": "It's only the Fiction3",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fiction3"
+        },
+        {
+            "bookTitle": "It's only the Fiction4",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fiction4"
+        },
+        {
+            "bookTitle": "It's only the Fiction5",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fiction5"
+        }
+    ],
+    "Fantasy": [
+        {
+            "bookTitle": "It's only the Fantasy1",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fantasy1"
+        },
+        {
+            "bookTitle": "It's only the Fantasy2",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fantasy2"
+        },
+        {
+            "bookTitle": "It's only the Fantasy3",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fantasy3"
+        },
+        {
+            "bookTitle": "It's only the Fantasy4",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fantasy4"
+        },
+        {
+            "bookTitle": "It's only the Fantasy5",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Fantasy5"
+        }
+    ],
+    "Poetry": [
+        {
+            "bookTitle": "It's only the Poetry1",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Poetry1"
+        },
+        {
+            "bookTitle": "It's only the Poetry2",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Poetry2"
+        },
+        {
+            "bookTitle": "It's only the Poetry3",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Poetry3"
+        },
+        {
+            "bookTitle": "It's only the Poetry4",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Poetry4"
+        },
+        {
+            "bookTitle": "It's only the Poetry5",
+            "bookPrice": "45.17",
+            "available": "19",
+            "imageUrl": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4416085_TONG_HOP_HINH_ANH_GIRL_XINH-itcntt.com-1.jpg",
+            "bookDescription": "description for book",
+            "upc": "Poetry5"
+        }
+    ]
+}
