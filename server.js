@@ -5,7 +5,7 @@ const initRouter = require('./src/routes')
 const post = process.env.POST;
 require('./connection_database')
 
-
+console.log("tesst git")
 const app = express();
 app.use(cors({
     origin: process.env.CLIENTURL,
